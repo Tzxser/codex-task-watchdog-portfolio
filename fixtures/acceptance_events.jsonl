@@ -1,0 +1,3 @@
+{"source":"fixture","kind":"progress","timestamp":0,"session_id":"fixture-text","turn_id":"t1","evidence":"taskbook text: Selected model is at capacity. Reconnecting... waiting for network","confidence":"high","active":true}
+{"source":"fixture","kind":"capacity","timestamp":1,"session_id":"fixture-capacity","turn_id":"t1","evidence":"semantic fixture event","confidence":"high","active":true}
+{"source":"fixture","kind":"progress","timestamp":20,"session_id":"fixture-capacity","turn_id":"t1","evidence":"recovered progress","confidence":"high","active":true}

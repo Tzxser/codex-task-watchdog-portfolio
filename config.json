@@ -1,0 +1,17 @@
+{
+  "poll_seconds": 5,
+  "approval_seconds": 10,
+  "input_seconds": 10,
+  "capacity_seconds": 90,
+  "reconnect_seconds": 90,
+  "reconnect_escalate_seconds": 600,
+  "executor_seconds": 15,
+  "silent_low_seconds": 1800,
+  "silent_high_seconds": 3600,
+  "dedup_repeat_seconds": 300,
+  "hourly_event_limit": 6,
+  "sound_enabled": false,
+  "desktop_toast_enabled": false,
+  "log_path": "~/.codex/logs_2.sqlite",
+  "start_from_tail": 0
+}

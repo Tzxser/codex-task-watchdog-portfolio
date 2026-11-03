@@ -1,0 +1,4 @@
+# Canonical bytes keep report manifest SHA256 reproducible after checkout.
+reports/overnight/** text eol=lf
+tools/*overnight*.py text eol=lf
+tools/replay_core_limitations.py text eol=lf
